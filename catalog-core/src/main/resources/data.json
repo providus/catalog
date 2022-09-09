@@ -97,12 +97,12 @@
   {
     "id": "a0a4f044-b040-410d-8ead-4de0446aec7e",
     "name": "Nerd leg",
-    "description": "For all those leg lovers out there. A perfect example of a swivel chair trained calf. Meticulously trained on a diet of sitting and Pina Coladas. Phwarr...",
+    "description": "Suitable for Providus office",
     "imageUrl": [
       "/catalogue/images/bit_of_leg_1.jpeg",
       "/catalogue/images/bit_of_leg_2.jpeg"
     ],
-    "price": 7.99,
+    "price": 0.99,
     "count": 115,
     "tag": [
       "skin",
